@@ -1,0 +1,4 @@
+[29-Apr-2023 15:37:26 UTC] PHP Warning:  unlink(/tmp/blaze-demo-importer.zip): No such file or directory in /home/iadhyzjq/public_html/wp-admin/includes/class-wp-upgrader.php on line 334
+[02-May-2023 14:54:34 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 8192 bytes) in /home/iadhyzjq/public_html/wp-content/plugins/fileorganizer/manager/php/elFinderVolumeDriver.class.php on line 3929
+[02-May-2023 15:04:09 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 393216 bytes) in /home/iadhyzjq/public_html/wp-content/plugins/fileorganizer/manager/php/elFinderVolumeDriver.class.php on line 4826
+[02-May-2023 15:54:39 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/iadhyzjq/public_html/wp-content/plugins/fileorganizer/manager/php/elFinderVolumeLocalFileSystem.class.php on line 435
